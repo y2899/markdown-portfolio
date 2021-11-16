@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- What you see	What you type
+- ❤️	:heart:
+- 👍	:+1:
+- 😄	:smile:
+- ✨	:sparkles:
+- 🎉	:tada:
